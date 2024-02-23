@@ -1,2 +1,2 @@
 # landing-page
-Attempt at basic website structure
+Attempt at basic website structure.
