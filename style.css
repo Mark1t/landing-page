@@ -142,7 +142,7 @@ a {
     background-color: #3882F6;
     display: flex;
     justify-content: center;
-    margin: auto;
+    margin: 60px auto;
     gap: 60px;
     padding: 40px;
     border-radius: 8px;
